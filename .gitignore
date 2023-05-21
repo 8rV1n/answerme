@@ -166,3 +166,6 @@ cython_debug/
 
 # Ignore local database persist volume
 local_db_persist/*
+
+# Ignore local model path
+models/*
