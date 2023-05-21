@@ -166,9 +166,12 @@ cython_debug/
 
 # Ignore local database persist volume
 local_db_persist/*
+.chroma/*
 
 # Ignore local model path
 models/*
 
 # Ignore local dataset folder
 dataset/*
+
+
