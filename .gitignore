@@ -169,3 +169,6 @@ local_db_persist/*
 
 # Ignore local model path
 models/*
+
+# Ignore local dataset folder
+dataset/*
